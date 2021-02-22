@@ -13,4 +13,10 @@ Tech I'm most familiar with:
 
 I'm a former instructor and alumni of  **LEARN Academy**. I'm actively seeking new opportunities as a junior web developer either remote or local in San Diego. 
 
-Feel free to reach out if you'd like to collaborate or think I might be a good fit for your company!
+Feel free to reach out if you'd like to collaborate, chat about cool tech or think I might be a good fit for your company!
+
+Want to connect?
+- [Personal website](http://andeeisaacs.com/)
+- [Linked in](https://www.linkedin.com/in/andeedeanisaacs/)
+- [AngelList](https://angel.co/u/andee-fonder-isaacs)
+- [LunchClub](https://lunchclub.com/dp/network-strength-216b4c122cca?ref=share_link)
