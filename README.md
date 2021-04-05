@@ -14,9 +14,9 @@ Languages/Tech I'm most familiar with:
 - Rspec
 - Enzyme
 
-I'm a former instructor and alumni of  **[LEARN Academy](https://www.learnacademy.org/)**. I'm [actively seeking new opportunities](https://www.linkedin.com/in/andeedeanisaacs/) as a junior web developer either remotly anywhere in the world or working local in San Diego. 
+I'm a Software Engineer for **[Pack Digital](https://packdigital.com/)**, former instructor and an alumni of  **[LEARN Academy](https://www.learnacademy.org/)**.
 
-Feel free to reach out if you'd like to collaborate, chat about cool tech or think I might be a good fit for your company!
+Feel free to reach out if you'd like to collaborate, want to chat about code/tech, or just would like to grab a drink in downtown San Diego.
 
 Want to connect?
 - [Linked in](https://www.linkedin.com/in/andeedeanisaacs/)
