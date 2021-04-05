@@ -3,12 +3,18 @@
 I'm **Andee Isaacs** and I'm a junior web developer located in **San Diego**, California!
 
 Languages/Tech I'm most familiar with:
+- Functional Programming
+- Object Oriented Programming
 
 - HTML/CSS
 - Javascript
 - React
+- Gatsby
+- ThemeUI
 - Ruby
 - Ruby on Rails
+- GraphQL
+- Contentful
 - React on Rails
 - Jest
 - Rspec
