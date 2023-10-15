@@ -1,6 +1,6 @@
 ### Hello! Hola! Hi! Greetings! 
 
-I'm **Andee Isaacs**, a Software Engineer at **[Pack Digital](https://packdigital.com/)**, former instructor and alumni of  **[LEARN Academy](https://www.learnacademy.org/)**. I enjoy realy good coffee and the rediculously good weather of San Diego, CA. 
+I'm **Andee Isaacs**, a Software Engineer and Key AM at **[Keepers](https://keepers.team/)**, former instructor and alumni of  **[LEARN Academy](https://www.learnacademy.org/)**. I enjoy realy good coffee and the rediculously good weather of San Diego, CA. 
 
 Currently working on building headless ecommerce storefronts! 
 
