@@ -15,5 +15,4 @@ Feel free to reach out if you'd like to collaborate, want to chat about code/tec
 How to connect:
 - [LinkedIn](https://www.linkedin.com/in/andeedeanisaacs/)
 - [AngelList](https://angel.co/u/andee-fonder-isaacs)
-- [LunchClub](https://lunchclub.com/dp/network-strength-216b4c122cca?ref=share_link)
 - [Dirty20's TTRPG Discord](https://discord.gg/akjEfygEj6) <--- This is where you can ask to join any of my running campaigns! 
