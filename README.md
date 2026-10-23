@@ -1,18 +1,21 @@
-### Hey there! 
+### Hey there! 👋
 
-I'm **Andee Isaacs**, a Software Engineer, 3D printing business owner, LLM enthusiast, general tech tinkerer and former alumni instructor of **[LEARN Academy](https://www.learnacademy.org/)**. I enjoy really good coffee and writing campaigns for TTRPGs. 
+I'm **Andee Isaacs**, Founder of **[PrintBench.io](https://printbench.io)**, a San Diego print shop where you upload your STL and I handle the rest: FDM and resin printing, post-processing, and painting. A lot of what comes through the shop is for the tabletop crowd (minis, terrain, custom dice), but if it fits on a build plate, I'll print it.
 
-When I'm not working on tech, printing and painting 3D models, chasing after my kid and french bulldog or annoying the heck out of my wife with stupid jokes, I'm usually prepping DM work for one of my DnD campaigns.
+Before PrintBench I was a software engineer for several companies in San Diego and an alumni instructor at **[LEARN Academy](https://www.learnacademy.org/)**. These days most of my code goes toward running the shop: the storefront, print farm tooling, and a growing pile of LLM-assisted helpers.
 
-When it comes to code, I'm most proficient with: 
-- React / Next / Gatsby, Javascript
-- ThemeUi / TailWind
-- Ruby
-- Misc: Building API's, helpers, hooks and NPM packages (Mostly just helper tools).
+When I'm not in the garage, I'm chasing after my kid and french bulldog, annoying the heck out of my wife with stupid jokes, drinking coffee/chai, or prepping DM work for one of my D&D campaigns. Or... all of it at the same time. 
 
-Feel free to reach out if you'd like to collaborate, want to chat about code/tech/3D Printing (FDM or Resin!), meetups, games (video or board), french bulldogs, exchange advice on being a parent or just would like to grab a drink or two in San Diego!
+**What I reach for:**
+- JavaScript / React / Next.js
+- Tailwind
+- Ruby, Python
+- Building APIs, hooks, helpers, and the occasional NPM package
 
-How to connect:
+Reach out if you want to talk 3D printing (FDM or resin), LLMs, code, D&D or Warhammer 40k, french bulldogs, swap parenting advice, or just grab a drink or two in San Diego.
+
+**How to connect:**
+- [PrintBench.io](https://printbench.io)
 - [LinkedIn](https://www.linkedin.com/in/andeedeanisaacs/)
-- [AngelList](https://angel.co/u/andee-fonder-isaacs)
-- [Dirty20's TTRPG Discord](https://discord.gg/akjEfygEj6) <--- This is where you can ask to join any of my running campaigns! 
+- [Wellfound (formerly AngelList)](https://angel.co/u/andee-fonder-isaacs)
+- [Dirty20's TTRPG Discord](https://discord.gg/akjEfygEj6) <--- This is where you can ask to join any of my running campaigns!
